@@ -159,7 +159,7 @@ The **Free Version** of the **MatDash Tailwind Next.js Admin Template** provides
       <tr>	      
          <th> 
             <img src="https://skillicons.dev/icons?i=bootstrap" height="20" alt="Bootstrap 5 templates" style="margin-right: 8px;">
-            <span style="font-size: 16px;">Bootstrap</span>
+            <span>Bootstrap</span>
          </th>
          <th>
             <img src="https://skillicons.dev/icons?i=next" height="20" alt="next templates" style="margin-right: 8px;">
